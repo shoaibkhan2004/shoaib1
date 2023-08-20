@@ -1,4 +1,3 @@
-# shoaib1
 <h1 align="center">Hi 👋, I'm Shoaib khan</h1>
 <h3 align="center">learner web and app</h3>
 
@@ -8,7 +7,7 @@
 
 - 🌱 I’m currently learning **html,css,JS**
 
-- 👨‍💻 All of my projects are available at [](https://myupdatefile.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://myupdatefile.netlify.app/](https://myupdatefile.netlify.app/)
 
 - 💬 Ask me about **anything**
 
