@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaibkhan2004&label=Profile%20views&color=0e75b6&style=flat" alt="shoaibkhan2004" /> </p>
 
-- 🔭 I’m currently working on [my portfolio](https://muhramaliportfolio.netlify.app/)
+- 🔭 I’m currently working on [my portfolio](https://myupdatefile.netlify.app/)
 
 - 🌱 I’m currently learning **html,css,JS**
 
-- 👨‍💻 All of my projects are available at [https://muhramaliportfolio.netlify.app/](https://muhramaliportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://muhramaliportfolio.netlify.app/](https://myupdatefile.netlify.app/)
 
 - 💬 Ask me about **anything**
 
